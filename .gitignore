@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/
+logs/
+frontend/node_modules/
+frontend/dist/
+.veronica-pids.json
